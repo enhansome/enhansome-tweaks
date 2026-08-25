@@ -15,7 +15,7 @@
             "last_commit": "2026-04-30T04:59:40Z",
             "owner": "rocksdanister",
             "repo": "lively",
-            "stars": 19473
+            "stars": 19476
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-04-20T11:45:12Z",
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10224
+            "stars": 10225
           }
         }
       ],
@@ -78,7 +78,7 @@
             "last_commit": "2026-08-14T05:15:09Z",
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20169
+            "stars": 20174
           }
         }
       ],
@@ -96,10 +96,10 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-24T20:39:10Z",
+            "last_commit": "2026-08-25T03:05:39Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104684
+            "stars": 104690
           }
         }
       ],
@@ -128,7 +128,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:03:11.612Z",
+    "last_updated": "2026-08-25T06:27:27.581Z",
     "original_repository": "alfaaarex/awesome-tweaks",
     "original_repository_id": 402297346,
     "original_repository_sha": "74b5dbf97e3e360f5a3befdf0fd21087be96d0c6",
