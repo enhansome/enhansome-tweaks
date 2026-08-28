@@ -16,7 +16,8 @@
             "owner": "rocksdanister",
             "repo": "lively",
             "stars": 19500
-          }
+          },
+          "first_seen": "2026-08-28T04:28:01.649Z"
         }
       ],
       "title": "3. Lively"
@@ -36,8 +37,9 @@
             "last_commit": "2026-04-20T11:45:12Z",
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10227
-          }
+            "stars": 10228
+          },
+          "first_seen": "2026-08-28T04:28:01.649Z"
         }
       ],
       "title": "6. Notepads"
@@ -58,7 +60,8 @@
             "owner": "namazso",
             "repo": "SecureUxTheme",
             "stars": 3115
-          }
+          },
+          "first_seen": "2026-08-28T04:28:01.649Z"
         }
       ],
       "title": "9. SecureUxTheme"
@@ -75,11 +78,12 @@
             "archived": false,
             "id": 78483432,
             "language": "C++",
-            "last_commit": "2026-08-27T02:57:34Z",
+            "last_commit": "2026-08-28T00:54:30Z",
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20182
-          }
+            "stars": 20190
+          },
+          "first_seen": "2026-08-28T04:28:01.649Z"
         }
       ],
       "title": "13. TranslucentTB"
@@ -96,11 +100,12 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-27T03:04:05Z",
+            "last_commit": "2026-08-28T03:06:09Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104700
-          }
+            "stars": 104712
+          },
+          "first_seen": "2026-08-28T04:28:01.649Z"
         }
       ],
       "title": "14. Windows Terminal"
@@ -121,14 +126,15 @@
             "owner": "securefolderfs-community",
             "repo": "ClipboardCanvas",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T04:28:01.649Z"
         }
       ],
       "title": "23. Clipboard Canvas"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:51.572Z",
+    "last_updated": "2026-08-28T04:28:01.649Z",
     "original_repository_info": {
       "archived": false,
       "id": 402297346,
