@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.",
+            "homepage": "https://rocksdanister.com/lively",
             "id": 201188122,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-30T04:59:40Z",
+            "open_issues": 386,
             "owner": "rocksdanister",
             "repo": "lively",
-            "stars": 19503
+            "stars": 19504,
+            "topics": [
+              "csharp",
+              "desktop",
+              "desktop-wallpaper",
+              "dynamic-desktop",
+              "dynamic-wallpaper",
+              "fluent-design",
+              "live-wallpaper",
+              "screensavers",
+              "wallpaper",
+              "wallpaper-app",
+              "wallpaper-changer",
+              "wallpaper-engine",
+              "wallpaperengine",
+              "wallpapers",
+              "widgets",
+              "windows-10",
+              "windows-11",
+              "windows-app",
+              "winui",
+              "winui3"
+            ]
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
         }
@@ -32,12 +58,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, lightweight text editor with a minimalist design.",
+            "homepage": "https://www.NotepadsApp.com",
             "id": 189676777,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-20T11:45:12Z",
+            "open_issues": 464,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10228
+            "stars": 10229,
+            "topics": [
+              "app",
+              "diff-viewer",
+              "fluent",
+              "markdown",
+              "notepad",
+              "texteditor",
+              "uwp",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
         }
@@ -54,12 +94,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 A secure boot compatible in-memory UxTheme patcher",
+            "homepage": null,
             "id": 199628478,
             "language": "C++",
+            "license": "LGPL-2.1",
             "last_commit": "2025-06-30T15:32:25Z",
+            "open_issues": 18,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3115
+            "stars": 3115,
+            "topics": [
+              "customization",
+              "ricing",
+              "style",
+              "theme",
+              "uxstyle",
+              "uxtheme",
+              "windows",
+              "windows-10",
+              "windows-11",
+              "windows-11-tweaker",
+              "windows-8",
+              "windows-8-1"
+            ]
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
         }
@@ -76,12 +134,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight utility that makes the Windows taskbar translucent/transparent.",
+            "homepage": "https://translucenttb.github.io",
             "id": 78483432,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T00:54:30Z",
+            "open_issues": 328,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20201
+            "stars": 20201,
+            "topics": [
+              "acrylic",
+              "aero",
+              "blur",
+              "customization",
+              "discord",
+              "fluent-design",
+              "gitter",
+              "taskbar",
+              "undocumented",
+              "windows",
+              "windows-10"
+            ]
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
         }
@@ -98,12 +173,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+            "homepage": null,
             "id": 100060912,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:41:14Z",
+            "open_issues": 1763,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104722
+            "stars": 104721,
+            "topics": [
+              "cmd",
+              "command-line",
+              "console",
+              "contributions-welcome",
+              "good-first-issue",
+              "hacktoberfest",
+              "terminal",
+              "windows",
+              "windows-console",
+              "windows-terminal",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
         }
@@ -120,12 +212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 363661308,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2025-01-15T21:36:16Z",
+            "open_issues": 7,
             "owner": "securefolderfs-community",
             "repo": "ClipboardCanvas",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
         }
@@ -134,15 +231,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:27.457Z",
+    "last_updated": "2026-08-29T04:55:49.147Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
+      "homepage": null,
       "id": 402297346,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-12-05T10:37:37Z",
+      "open_issues": 0,
       "owner": "alfaaarex",
       "repo": "awesome-tweaks",
-      "stars": 160
+      "stars": 160,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "customize",
+        "rice",
+        "tweaks"
+      ]
     },
     "original_repository_sha": "74b5dbf97e3e360f5a3befdf0fd21087be96d0c6",
     "enhanced_repository": "enhansome/enhansome-tweaks",

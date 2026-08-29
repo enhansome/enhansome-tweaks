@@ -32,7 +32,7 @@
 
 **Description:** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,503 | 🐛 386 | 🌐 C# | 📅 2026-04-30
+**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,504 | 🐛 386 | 🌐 C# | 📅 2026-04-30
 
 ## 4. Oh-My-Posh
 
@@ -60,7 +60,7 @@
 
 **Description:** Modern and lightweight alternative to Notepad.
 
-**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or from [GitHub](https://github.com/JasonStein/Notepads) ⭐ 10,228 | 🐛 464 | 🌐 C# | 📅 2026-04-20
+**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or from [GitHub](https://github.com/JasonStein/Notepads) ⭐ 10,229 | 🐛 464 | 🌐 C# | 📅 2026-04-20
 
 ## 7. Tabby
 
@@ -70,7 +70,7 @@
 
 **Description:** A terminal for a more modern age.
 
-**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 74,206 | 🐛 2,870 | 🌐 TypeScript | 📅 2026-08-28
+**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 74,207 | 🐛 2,870 | 🌐 TypeScript | 📅 2026-08-28
 
 ## 8. Picom
 
@@ -142,7 +142,7 @@
 
 **Description:** A modern, fast, efficient, powerful, and productive terminal application.
 
-**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 104,722 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 104,722 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 104,722 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 104,722 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28
+**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 104,721 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 104,721 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 104,721 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 104,721 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-28
 
 ## 15. MyDockFinder
 
@@ -193,7 +193,7 @@
 **Supported Platforms:** Windows 10+
 **Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
 
-**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 44,806 | 🐛 462 | 🌐 C# | 📅 2026-08-28 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
+**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 44,808 | 🐛 463 | 🌐 C# | 📅 2026-08-28 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
 
 ## 20. Rise Media Player
 
