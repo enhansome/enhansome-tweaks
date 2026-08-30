@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-04-30T04:59:40Z",
-            "open_issues": 386,
+            "open_issues": 387,
             "owner": "rocksdanister",
             "repo": "lively",
-            "stars": 19508,
+            "stars": 19513,
             "topics": [
               "csharp",
               "desktop",
@@ -67,7 +67,7 @@
             "open_issues": 464,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10229,
+            "stars": 10231,
             "topics": [
               "app",
               "diff-viewer",
@@ -103,7 +103,7 @@
             "open_issues": 18,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3115,
+            "stars": 3118,
             "topics": [
               "customization",
               "ricing",
@@ -140,10 +140,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T00:54:30Z",
-            "open_issues": 328,
+            "open_issues": 327,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20208,
+            "stars": 20218,
             "topics": [
               "acrylic",
               "aero",
@@ -182,7 +182,7 @@
             "open_issues": 1764,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104730,
+            "stars": 104745,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:46:53.120Z",
+    "last_updated": "2026-08-30T22:55:41.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
