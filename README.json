@@ -19,7 +19,7 @@
             "open_issues": 386,
             "owner": "rocksdanister",
             "repo": "lively",
-            "stars": 19563,
+            "stars": 19569,
             "topics": [
               "csharp",
               "desktop",
@@ -67,7 +67,7 @@
             "open_issues": 464,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10244,
+            "stars": 10243,
             "topics": [
               "app",
               "diff-viewer",
@@ -100,7 +100,7 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2025-06-30T15:32:25Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "namazso",
             "repo": "SecureUxTheme",
             "stars": 3123,
@@ -143,7 +143,7 @@
             "open_issues": 329,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20277,
+            "stars": 20284,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-05T03:04:00Z",
-            "open_issues": 1756,
+            "last_commit": "2026-09-08T21:42:04Z",
+            "open_issues": 1758,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104839,
+            "stars": 104844,
             "topics": [
               "cmd",
               "command-line",
@@ -221,7 +221,7 @@
             "open_issues": 7,
             "owner": "securefolderfs-community",
             "repo": "ClipboardCanvas",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:58:50.654Z",
+    "last_updated": "2026-09-08T22:57:21.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
