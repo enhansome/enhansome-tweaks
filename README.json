@@ -19,7 +19,7 @@
             "open_issues": 387,
             "owner": "rocksdanister",
             "repo": "lively",
-            "stars": 19572,
+            "stars": 19581,
             "topics": [
               "csharp",
               "desktop",
@@ -103,7 +103,7 @@
             "open_issues": 21,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3125,
+            "stars": 3126,
             "topics": [
               "customization",
               "ricing",
@@ -140,10 +140,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-31T08:09:24Z",
-            "open_issues": 328,
+            "open_issues": 329,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20292,
+            "stars": 20294,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-09T01:01:14Z",
+            "last_commit": "2026-09-10T10:23:47Z",
             "open_issues": 1760,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104855,
+            "stars": 104867,
             "topics": [
               "cmd",
               "command-line",
@@ -221,7 +221,7 @@
             "open_issues": 7,
             "owner": "securefolderfs-community",
             "repo": "ClipboardCanvas",
-            "stars": 142,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:01.649Z"
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:43:58.117Z",
+    "last_updated": "2026-09-10T22:45:19.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
