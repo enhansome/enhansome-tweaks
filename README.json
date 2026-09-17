@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-04-30T04:59:40Z",
-            "open_issues": 389,
+            "open_issues": 390,
             "owner": "rocksdanister",
             "repo": "lively",
-            "stars": 19626,
+            "stars": 19630,
             "topics": [
               "csharp",
               "desktop",
@@ -140,10 +140,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-10T23:04:57Z",
-            "open_issues": 325,
+            "open_issues": 326,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20352,
+            "stars": 20358,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-16T22:13:56Z",
-            "open_issues": 1756,
+            "last_commit": "2026-09-17T22:33:24Z",
+            "open_issues": 1762,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104909,
+            "stars": 104919,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:14:11.276Z",
+    "last_updated": "2026-09-17T23:04:23.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
