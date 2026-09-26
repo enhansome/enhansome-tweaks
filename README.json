@@ -11,15 +11,15 @@
           "repo_info": {
             "archived": false,
             "description": "Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.",
-            "homepage": "https://rocksdanister.com/lively",
+            "homepage": "https://livelywallpaper.net",
             "id": 201188122,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-04-30T04:59:40Z",
+            "last_commit": "2026-09-26T05:12:29Z",
             "open_issues": 393,
             "owner": "rocksdanister",
             "repo": "lively",
-            "stars": 19669,
+            "stars": 19673,
             "topics": [
               "csharp",
               "desktop",
@@ -67,7 +67,7 @@
             "open_issues": 467,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10266,
+            "stars": 10264,
             "topics": [
               "app",
               "diff-viewer",
@@ -100,10 +100,10 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2025-06-30T15:32:25Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3134,
+            "stars": 3136,
             "topics": [
               "customization",
               "ricing",
@@ -143,7 +143,7 @@
             "open_issues": 330,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20429,
+            "stars": 20430,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-25T23:03:19Z",
-            "open_issues": 1776,
+            "last_commit": "2026-09-26T00:59:41Z",
+            "open_issues": 1772,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104996,
+            "stars": 104999,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:31:26.109Z",
+    "last_updated": "2026-09-26T23:08:46.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
