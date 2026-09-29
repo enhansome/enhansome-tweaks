@@ -12,7 +12,7 @@
 
 **Description:** Command-line tool to customize new Spotify client (v1.1.58 or later) using CSS, custom styles, and JavaScript features.
 
-**Installation:** See [here](https://github.com/khanhas/spicetify-cli/wiki/Installation) ⭐ 24,672 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-22
+**Installation:** See [here](https://github.com/khanhas/spicetify-cli/wiki/Installation) ⭐ 24,683 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-28
 
 ## 2. Winaero Tweaker
 
@@ -32,7 +32,7 @@
 
 **Description:** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,679 | 🐛 393 | 🌐 C# | 📅 2026-09-27
+**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,692 | 🐛 394 | 🌐 C# | 📅 2026-09-28
 
 ## 4. Oh-My-Posh
 
@@ -60,7 +60,7 @@
 
 **Description:** Modern and lightweight alternative to Notepad.
 
-**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or from [GitHub](https://github.com/JasonStein/Notepads) ⭐ 10,270 | 🐛 467 | 🌐 C# | 📅 2026-04-20
+**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or from [GitHub](https://github.com/JasonStein/Notepads) ⭐ 10,271 | 🐛 466 | 🌐 C# | 📅 2026-04-20
 
 ## 7. Tabby
 
@@ -70,7 +70,7 @@
 
 **Description:** A terminal for a more modern age.
 
-**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 74,702 | 🐛 2,813 | 🌐 TypeScript | 📅 2026-09-25
+**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 74,724 | 🐛 2,815 | 🌐 TypeScript | 📅 2026-09-28
 
 ## 8. Picom
 
@@ -92,7 +92,7 @@
 
 **Description:** A secure boot compatible in-memory UxTheme patcher.
 
-**Installation:** Download or compile the app from the [repo](https://github.com/namazso/SecureUxTheme) ⭐ 3,139 | 🐛 20 | 🌐 C++ | 📅 2025-06-30.
+**Installation:** Download or compile the app from the [repo](https://github.com/namazso/SecureUxTheme) ⭐ 3,141 | 🐛 20 | 🌐 C++ | 📅 2025-06-30.
 
 ## 10. AltDrag
 
@@ -112,7 +112,7 @@
 
 **Description:** Highly configurable Windows taskbar clock (Program is not maintained anymore, as it seems)
 
-**Installation:** See the latest release [here](https://github.com/White-Tiger/T-Clock/releases/tag/v2.4.4%23492-rc) ⭐ 1,848 | 🐛 170 | 🌐 C | 📅 2021-01-07
+**Installation:** See the latest release [here](https://github.com/White-Tiger/T-Clock/releases/tag/v2.4.4%23492-rc) ⭐ 1,849 | 🐛 170 | 🌐 C | 📅 2021-01-07
 
 ## 12. BarTender
 
@@ -132,7 +132,7 @@
 
 **Description:** A lightweight utility that makes the Windows taskbar translucent/transparent.
 
-**Instalation:** Install it via the [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab), or via [GitHub](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,441 | 🐛 329 | 🌐 C++ | 📅 2026-09-21
+**Instalation:** Install it via the [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab), or via [GitHub](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,446 | 🐛 329 | 🌐 C++ | 📅 2026-09-21
 
 ## 14. Windows Terminal
 
@@ -142,7 +142,7 @@
 
 **Description:** A modern, fast, efficient, powerful, and productive terminal application.
 
-**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 105,014 | 🐛 1,776 | 🌐 C++ | 📅 2026-09-27, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 105,014 | 🐛 1,776 | 🌐 C++ | 📅 2026-09-27, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 105,014 | 🐛 1,776 | 🌐 C++ | 📅 2026-09-27, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 105,014 | 🐛 1,776 | 🌐 C++ | 📅 2026-09-27
+**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 105,024 | 🐛 1,775 | 🌐 C++ | 📅 2026-09-28, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 105,024 | 🐛 1,775 | 🌐 C++ | 📅 2026-09-28, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 105,024 | 🐛 1,775 | 🌐 C++ | 📅 2026-09-28, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 105,024 | 🐛 1,775 | 🌐 C++ | 📅 2026-09-28
 
 ## 15. MyDockFinder
 
@@ -184,7 +184,7 @@
 
 **Description:** Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 
-**Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases) ⭐ 139,060 | 🐛 7,692 | 🌐 C | 📅 2026-09-27
+**Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases) ⭐ 139,089 | 🐛 7,666 | 🌐 C | 📅 2026-09-29
 
 ## 19. Files
 
@@ -193,7 +193,7 @@
 **Supported Platforms:** Windows 10+
 **Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
 
-**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 45,703 | 🐛 461 | 🌐 C# | 📅 2026-09-24 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
+**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 45,724 | 🐛 461 | 🌐 C# | 📅 2026-09-24 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
 
 ## 20. Rise Media Player
 
@@ -213,7 +213,7 @@
 
 **Description:** An extensible, customisable menubar replacement for macOS.
 
-**Installation:** Visit the [official repository](https://github.com/blahsd/snwe) ⭐ 304 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07
+**Installation:** Visit the [official repository](https://github.com/blahsd/snwe) ⭐ 305 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-07
 
 ## 22. Dash-to-Dock
 
@@ -286,4 +286,4 @@ If you wanna discuss with the owners and contributors, check out the [Discord Se
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
