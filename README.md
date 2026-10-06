@@ -12,7 +12,7 @@
 
 **Description:** Command-line tool to customize new Spotify client (v1.1.58 or later) using CSS, custom styles, and JavaScript features.
 
-**Installation:** See [here](https://github.com/khanhas/spicetify-cli/wiki/Installation) ⭐ 24,808 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-05
+**Installation:** See [here](https://github.com/khanhas/spicetify-cli/wiki/Installation) ⭐ 24,822 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-05
 
 ## 2. Winaero Tweaker
 
@@ -32,7 +32,7 @@
 
 **Description:** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,756 | 🐛 391 | 🌐 C# | 📅 2026-09-30
+**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,755 | 🐛 391 | 🌐 C# | 📅 2026-09-30
 
 ## 4. Oh-My-Posh
 
@@ -70,7 +70,7 @@
 
 **Description:** A terminal for a more modern age.
 
-**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 74,829 | 🐛 2,830 | 🌐 TypeScript | 📅 2026-10-05
+**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 74,837 | 🐛 2,830 | 🌐 TypeScript | 📅 2026-10-06
 
 ## 8. Picom
 
@@ -80,7 +80,7 @@
 
 **Description:** Picom is a compositor for X, and a fork of Compton
 
-**Installation:** Visit the [GitHub Repo](https://github.com/yshui/picom) ⭐ 4,808 | 🐛 277 | 🌐 C | 📅 2026-09-22 and follow the instructions.
+**Installation:** Visit the [GitHub Repo](https://github.com/yshui/picom) ⭐ 4,810 | 🐛 277 | 🌐 C | 📅 2026-09-22 and follow the instructions.
 
 ## 9. SecureUxTheme
 
@@ -132,7 +132,7 @@
 
 **Description:** A lightweight utility that makes the Windows taskbar translucent/transparent.
 
-**Instalation:** Install it via the [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab), or via [GitHub](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,492 | 🐛 330 | 🌐 C++ | 📅 2026-10-04
+**Instalation:** Install it via the [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab), or via [GitHub](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,495 | 🐛 330 | 🌐 C++ | 📅 2026-10-04
 
 ## 14. Windows Terminal
 
@@ -142,7 +142,7 @@
 
 **Description:** A modern, fast, efficient, powerful, and productive terminal application.
 
-**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 105,082 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 105,082 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 105,082 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 105,082 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06
+**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 105,089 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 105,089 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 105,089 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 105,089 | 🐛 1,779 | 🌐 C++ | 📅 2026-10-06
 
 ## 15. MyDockFinder
 
@@ -184,7 +184,7 @@
 
 **Description:** Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 
-**Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases) ⭐ 139,243 | 🐛 7,720 | 🌐 C | 📅 2026-10-06
+**Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases) ⭐ 139,259 | 🐛 7,721 | 🌐 C | 📅 2026-10-06
 
 ## 19. Files
 
@@ -193,7 +193,7 @@
 **Supported Platforms:** Windows 10+
 **Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
 
-**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 45,827 | 🐛 456 | 🌐 C# | 📅 2026-10-05 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
+**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 45,830 | 🐛 459 | 🌐 C# | 📅 2026-10-06 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
 
 ## 20. Rise Media Player
 
