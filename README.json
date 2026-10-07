@@ -19,7 +19,7 @@
             "open_issues": 391,
             "owner": "lively-community",
             "repo": "lively",
-            "stars": 19755,
+            "stars": 19761,
             "topics": [
               "csharp",
               "desktop",
@@ -63,11 +63,11 @@
             "id": 189676777,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-04-20T11:45:12Z",
+            "last_commit": "2026-10-06T14:52:48Z",
             "open_issues": 469,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10274,
+            "stars": 10273,
             "topics": [
               "app",
               "diff-viewer",
@@ -103,7 +103,7 @@
             "open_issues": 20,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3139,
+            "stars": 3138,
             "topics": [
               "customization",
               "ricing",
@@ -143,7 +143,7 @@
             "open_issues": 330,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20495,
+            "stars": 20498,
             "topics": [
               "acrylic",
               "aero",
@@ -178,8 +178,8 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T02:35:51Z",
-            "open_issues": 1779,
+            "last_commit": "2026-10-06T21:39:31Z",
+            "open_issues": 1775,
             "owner": "microsoft",
             "repo": "terminal",
             "stars": 105089,
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:25.238Z",
+    "last_updated": "2026-10-07T00:06:05.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
@@ -243,7 +243,7 @@
       "open_issues": 0,
       "owner": "alfaaarex",
       "repo": "awesome-tweaks",
-      "stars": 161,
+      "stars": 160,
       "topics": [
         "awesome",
         "awesome-list",
