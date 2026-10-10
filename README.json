@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T16:49:36Z",
-            "open_issues": 392,
+            "open_issues": 393,
             "owner": "lively-community",
             "repo": "lively",
-            "stars": 19773,
+            "stars": 19781,
             "topics": [
               "csharp",
               "desktop",
@@ -63,7 +63,7 @@
             "id": 189676777,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-08T01:43:29Z",
+            "last_commit": "2026-10-09T16:51:58Z",
             "open_issues": 469,
             "owner": "0x7c13",
             "repo": "Notepads",
@@ -103,7 +103,7 @@
             "open_issues": 20,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3139,
+            "stars": 3138,
             "topics": [
               "customization",
               "ricing",
@@ -140,10 +140,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T09:37:18Z",
-            "open_issues": 331,
+            "open_issues": 332,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20509,
+            "stars": 20520,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:12:33Z",
-            "open_issues": 1771,
+            "last_commit": "2026-10-09T21:11:18Z",
+            "open_issues": 1775,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105107,
+            "stars": 105115,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:37:16.473Z",
+    "last_updated": "2026-10-10T00:18:25.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
