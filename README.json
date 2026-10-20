@@ -19,7 +19,7 @@
             "open_issues": 399,
             "owner": "lively-community",
             "repo": "lively",
-            "stars": 19861,
+            "stars": 19879,
             "topics": [
               "csharp",
               "desktop",
@@ -67,7 +67,7 @@
             "open_issues": 474,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10284,
+            "stars": 10282,
             "topics": [
               "app",
               "diff-viewer",
@@ -103,7 +103,7 @@
             "open_issues": 21,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3136,
+            "stars": 3139,
             "topics": [
               "customization",
               "ricing",
@@ -143,7 +143,7 @@
             "open_issues": 332,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20590,
+            "stars": 20601,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-19T22:27:41Z",
-            "open_issues": 1781,
+            "last_commit": "2026-10-20T22:54:03Z",
+            "open_issues": 1784,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105190,
+            "stars": 105199,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:54:54.959Z",
+    "last_updated": "2026-10-20T23:22:40.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
@@ -243,7 +243,7 @@
       "open_issues": 0,
       "owner": "alfaaarex",
       "repo": "awesome-tweaks",
-      "stars": 160,
+      "stars": 161,
       "topics": [
         "awesome",
         "awesome-list",
