@@ -19,7 +19,7 @@
             "open_issues": 403,
             "owner": "lively-community",
             "repo": "lively",
-            "stars": 19930,
+            "stars": 19944,
             "topics": [
               "csharp",
               "desktop",
@@ -63,7 +63,7 @@
             "id": 189676777,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T09:23:27Z",
+            "last_commit": "2026-10-27T23:41:27Z",
             "open_issues": 474,
             "owner": "0x7c13",
             "repo": "Notepads",
@@ -103,7 +103,7 @@
             "open_issues": 20,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3141,
+            "stars": 3140,
             "topics": [
               "customization",
               "ricing",
@@ -140,10 +140,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T19:34:25Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20655,
+            "stars": 20663,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-26T22:27:55Z",
-            "open_issues": 1782,
+            "last_commit": "2026-10-27T22:58:41Z",
+            "open_issues": 1781,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105245,
+            "stars": 105257,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:04:03.333Z",
+    "last_updated": "2026-10-27T23:58:40.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
