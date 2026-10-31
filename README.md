@@ -12,7 +12,7 @@
 
 **Description:** Command-line tool to customize new Spotify client (v1.1.58 or later) using CSS, custom styles, and JavaScript features.
 
-**Installation:** See [here](https://github.com/khanhas/spicetify-cli/wiki/Installation) ⭐ 25,300 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-28
+**Installation:** See [here](https://github.com/khanhas/spicetify-cli/wiki/Installation) ⭐ 25,315 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-28
 
 ## 2. Winaero Tweaker
 
@@ -32,7 +32,7 @@
 
 **Description:** Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
-**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,964 | 🐛 404 | 🌐 C# | 📅 2026-09-30
+**Installation:** [Releases](https://github.com/rocksdanister/lively/releases) ⭐ 19,974 | 🐛 404 | 🌐 C# | 📅 2026-09-30
 
 ## 4. Oh-My-Posh
 
@@ -60,7 +60,7 @@
 
 **Description:** Modern and lightweight alternative to Notepad.
 
-**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or from [GitHub](https://github.com/JasonStein/Notepads) ⭐ 10,307 | 🐛 475 | 🌐 C# | 📅 2026-10-28
+**Installation:** Download it from the [Microsoft Store](https://www.microsoft.com/en-us/p/notepads-app/9nhl4nsc67wm) or from [GitHub](https://github.com/JasonStein/Notepads) ⭐ 10,311 | 🐛 475 | 🌐 C# | 📅 2026-10-30
 
 ## 7. Tabby
 
@@ -70,7 +70,7 @@
 
 **Description:** A terminal for a more modern age.
 
-**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 75,197 | 🐛 2,864 | 🌐 TypeScript | 📅 2026-10-29
+**Installation:** Download it from [here](https://github.com/Eugeny/tabby/releases) ⭐ 75,212 | 🐛 2,866 | 🌐 TypeScript | 📅 2026-10-30
 
 ## 8. Picom
 
@@ -80,7 +80,7 @@
 
 **Description:** Picom is a compositor for X, and a fork of Compton
 
-**Installation:** Visit the [GitHub Repo](https://github.com/yshui/picom) ⭐ 4,821 | 🐛 280 | 🌐 C | 📅 2026-10-27 and follow the instructions.
+**Installation:** Visit the [GitHub Repo](https://github.com/yshui/picom) ⭐ 4,822 | 🐛 280 | 🌐 C | 📅 2026-10-27 and follow the instructions.
 
 ## 9. SecureUxTheme
 
@@ -92,7 +92,7 @@
 
 **Description:** A secure boot compatible in-memory UxTheme patcher.
 
-**Installation:** Download or compile the app from the [repo](https://github.com/namazso/SecureUxTheme) ⭐ 3,142 | 🐛 20 | 🌐 C++ | 📅 2025-06-30.
+**Installation:** Download or compile the app from the [repo](https://github.com/namazso/SecureUxTheme) ⭐ 3,144 | 🐛 20 | 🌐 C++ | 📅 2025-06-30.
 
 ## 10. AltDrag
 
@@ -132,7 +132,7 @@
 
 **Description:** A lightweight utility that makes the Windows taskbar translucent/transparent.
 
-**Instalation:** Install it via the [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab), or via [GitHub](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,679 | 🐛 341 | 🌐 C++ | 📅 2026-10-13
+**Instalation:** Install it via the [Microsoft Store](https://www.microsoft.com/ro-ro/p/translucenttb/9pf4kz2vn4w9?activetab=pivot:overviewtab), or via [GitHub](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,684 | 🐛 342 | 🌐 C++ | 📅 2026-10-13
 
 ## 14. Windows Terminal
 
@@ -142,7 +142,7 @@
 
 **Description:** A modern, fast, efficient, powerful, and productive terminal application.
 
-**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 105,276 | 🐛 1,773 | 🌐 C++ | 📅 2026-10-29, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 105,276 | 🐛 1,773 | 🌐 C++ | 📅 2026-10-29, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 105,276 | 🐛 1,773 | 🌐 C++ | 📅 2026-10-29, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 105,276 | 🐛 1,773 | 🌐 C++ | 📅 2026-10-29
+**Installation**: Install it via the ([Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701), [GitHub](https://github.com/microsoft/terminal#via-github) ⭐ 105,291 | 🐛 1,771 | 🌐 C++ | 📅 2026-10-30, [WinGet](https://github.com/microsoft/terminal#via-windows-package-manager-cli-aka-winget) ⭐ 105,291 | 🐛 1,771 | 🌐 C++ | 📅 2026-10-30, [Chocolatey](https://github.com/microsoft/terminal#via-chocolatey-unofficial) ⭐ 105,291 | 🐛 1,771 | 🌐 C++ | 📅 2026-10-30, or [Scoop](https://github.com/microsoft/terminal#via-scoop-unofficial) ⭐ 105,291 | 🐛 1,771 | 🌐 C++ | 📅 2026-10-30
 
 ## 15. MyDockFinder
 
@@ -152,7 +152,7 @@
 
 **Description:** It's a program which allows you to replicate the macOS 11 Dock and Finderbar, perfectly, on Windows.
 
-**Installation:** Download it via the [releases page of the repo](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11/releases) ⭐ 1,304 | 🐛 604 | 📅 2026-10-05
+**Installation:** Download it via the [releases page of the repo](https://github.com/mydockfinder/mydockfinder-for-Win10-Win11/releases) ⭐ 1,305 | 🐛 603 | 📅 2026-10-05
 
 **Well how do I even install that!?** Download it, and click on dock (or dock\_64).exe. Microsoft may show you a SmartScreen warning; run anyway. To set the language to English, right click the separator in the dock, click the second last option. And after that, scroll until the second last option and click the dropdown. Select English there.
 
@@ -184,7 +184,7 @@
 
 **Description:** Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 
-**Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases) ⭐ 140,231 | 🐛 7,939 | 🌐 C | 📅 2026-10-29
+**Installation:** Download the latest release from the [official repository](https://github.com/microsoft/PowerToys/releases) ⭐ 140,301 | 🐛 7,941 | 🌐 C | 📅 2026-10-30
 
 ## 19. Files
 
@@ -193,7 +193,7 @@
 **Supported Platforms:** Windows 10+
 **Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
 
-**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 46,353 | 🐛 460 | 🌐 C# | 📅 2026-10-29 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
+**Installation:** Visit the [official repository](https://github.com/files-community/Files) ⭐ 46,383 | 🐛 464 | 🌐 C# | 📅 2026-10-29 or simply insall it via the [Microsoft Store](https://www.microsoft.com/store/apps/9NGHP3DX8HDX)
 
 ## 20. Rise Media Player
 
@@ -203,7 +203,7 @@
 
 **Description:** Rise Media Player brings all of your media to a whole new level. If it's videos, the music stored on your devices, discs or even your favourite streaming services.
 
-**Installation:** Since [the project](https://github.com/josephbeattie/Fluent-Media-Player-Dev) ⭐ 1,220 | 🐛 54 | 🌐 C# | 📅 2025-10-23 is in it's early phase of development you will need to build it via Visual Studio
+**Installation:** Since [the project](https://github.com/josephbeattie/Fluent-Media-Player-Dev) ⭐ 1,218 | 🐛 54 | 🌐 C# | 📅 2025-10-23 is in it's early phase of development you will need to build it via Visual Studio
 
 ## 21. SNWE
 
@@ -286,4 +286,4 @@ If you wanna discuss with the owners and contributors, check out the [Discord Se
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
