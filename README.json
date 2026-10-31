@@ -19,7 +19,7 @@
             "open_issues": 404,
             "owner": "lively-community",
             "repo": "lively",
-            "stars": 19974,
+            "stars": 19979,
             "topics": [
               "csharp",
               "desktop",
@@ -67,7 +67,7 @@
             "open_issues": 475,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10311,
+            "stars": 10312,
             "topics": [
               "app",
               "diff-viewer",
@@ -140,10 +140,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T19:34:25Z",
-            "open_issues": 342,
+            "open_issues": 343,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20684,
+            "stars": 20699,
             "topics": [
               "acrylic",
               "aero",
@@ -178,11 +178,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-30T19:48:50Z",
-            "open_issues": 1771,
+            "last_commit": "2026-10-31T03:04:33Z",
+            "open_issues": 1770,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105291,
+            "stars": 105300,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:01:45.350Z",
+    "last_updated": "2026-10-31T23:42:27.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
