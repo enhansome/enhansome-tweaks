@@ -16,10 +16,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T16:49:36Z",
-            "open_issues": 409,
+            "open_issues": 411,
             "owner": "lively-community",
             "repo": "lively",
-            "stars": 20039,
+            "stars": 20050,
             "topics": [
               "csharp",
               "desktop",
@@ -67,7 +67,7 @@
             "open_issues": 475,
             "owner": "0x7c13",
             "repo": "Notepads",
-            "stars": 10331,
+            "stars": 10333,
             "topics": [
               "app",
               "diff-viewer",
@@ -103,7 +103,7 @@
             "open_issues": 19,
             "owner": "namazso",
             "repo": "SecureUxTheme",
-            "stars": 3140,
+            "stars": 3138,
             "topics": [
               "customization",
               "ricing",
@@ -140,10 +140,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-05T03:14:58Z",
-            "open_issues": 346,
+            "open_issues": 348,
             "owner": "TranslucentTB",
             "repo": "TranslucentTB",
-            "stars": 20744,
+            "stars": 20757,
             "topics": [
               "acrylic",
               "aero",
@@ -179,10 +179,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-07T00:35:29Z",
-            "open_issues": 1777,
+            "open_issues": 1776,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105344,
+            "stars": 105353,
             "topics": [
               "cmd",
               "command-line",
@@ -231,7 +231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:56:04.677Z",
+    "last_updated": "2026-11-08T23:59:08.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "💻 List of awesome programs and tweaks for Windows, macOS and Linux.",
@@ -243,7 +243,7 @@
       "open_issues": 0,
       "owner": "alfaaarex",
       "repo": "awesome-tweaks",
-      "stars": 162,
+      "stars": 161,
       "topics": [
         "awesome",
         "awesome-list",
